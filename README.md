@@ -2,20 +2,20 @@
 I'm a degree university student with a strong interest in Machine Learning and AI. I'm also fascinated by startups and their potential to drive innovation. 🚀
 <!-- Light Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/Daryl0101#gh-light-mode-only">
 <img height=220 src="https://github-readme-stats-git-pr-2459-daryl0101.vercel.app/api/top-langs/?username=daryl0101&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&hide=svelte,html,css,cmake&exclude_repo=github-readme-stats,Daryl0101&size_weight=0.5&count_weight=0.5&theme=gruvbox_light#gh-light-mode-only" alt="Daryl's Language stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/Daryl0101#gh-light-mode-only">
 <img height=220 src="https://github-readme-stats-git-pr-2459-daryl0101.vercel.app/api?username=daryl0101&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews&rank_icon=percentile&exclude_repo=github-readme-stats,Daryl0101&custom_title=Daryl's%20Github%20Stats&theme=gruvbox_light#gh-light-mode-only" alt="Daryl's Github stats" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/Daryl0101#gh-dark-mode-only">
 <img height=220 src="https://github-readme-stats-git-pr-2459-daryl0101.vercel.app/api/top-langs/?username=daryl0101&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&hide=svelte,html,css,cmake&exclude_repo=github-readme-stats,Daryl0101&size_weight=0.5&count_weight=0.5&theme=tokyonight#gh-dark-mode-only" alt="Daryl's Language stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/Daryl0101#gh-dark-mode-only">
 <img height=220 src="https://github-readme-stats-git-pr-2459-daryl0101.vercel.app/api?username=daryl0101&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews&rank_icon=percentile&exclude_repo=github-readme-stats,Daryl0101&custom_title=Daryl's%20Github%20Stats&theme=tokyonight#gh-dark-mode-only" alt="Daryl's Github stats" />
 </a>
 </div>
