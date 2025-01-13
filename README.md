@@ -1,5 +1,5 @@
 ### 👋 Hey there! I'm [Daryl](https://www.linkedin.com/in/daryl-tneoh-972712210)
-I'm a degree university student with a strong interest in Machine Learning and AI. I'm also fascinated by startups and their potential to drive innovation. 🚀
+Software Engineer with a strong interest in Machine Learning and AI. Fascinated by startups and their potential to drive innovation. 🚀
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/Daryl0101#gh-light-mode-only">
